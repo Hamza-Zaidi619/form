@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+input{
+    width: 50vh;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 12px;
+    border: 5px solid burlywood;
+}
+button{
+    background-color: brown;
+    color: bisque;
+   padding: 12px;
+   border-radius: 19px;
+}
+#retrieve{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
